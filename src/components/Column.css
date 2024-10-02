@@ -1,0 +1,21 @@
+.column {
+    flex: 1;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    min-width: 300px;
+  }
+  
+  .column h2 {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .tickets {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  

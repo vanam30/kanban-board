@@ -1,0 +1,25 @@
+.ticket {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .ticket:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ticket h3 {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: #555;
+  }
+  
+  .ticket p {
+    font-size: 12px;
+    color: #888;
+  }
+  
