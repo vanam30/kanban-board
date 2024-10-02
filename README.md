@@ -29,4 +29,4 @@ Follow the instructions below to get a copy of the project running on your local
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/vanam30/kanban-board.git
